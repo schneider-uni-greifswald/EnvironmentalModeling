@@ -1,6 +1,7 @@
 % EXAMPLE Metapopulations
 % Note that function pop2_rnd is called
 % M3.5
+setenv ("GNUTERM","xlib")
 more off
 % Control run with environments independent but no migration
 n0=100, runlen=199, rgood=5/4, rbad=4/5, m=0; % Note that geometric mean of Rs is 1

@@ -1,4 +1,5 @@
 % M5.3: Using the Logistic with data: Paramecium experiment
+setenv ("GNUTERM","xlib")
 more off
 % Data for Paramecium aurelia
 par1=[2 10 17 29 39 63 185 258 267 392 510 570 650 560 575 650 550 480 520 500];

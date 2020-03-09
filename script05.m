@@ -1,5 +1,6 @@
 % LOGISTIC MODEL
 % Scripts for Lecture 4/5
+setenv ("GNUTERM","xlib")
 more off
 figure(1)
 % discrete

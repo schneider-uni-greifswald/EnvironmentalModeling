@@ -2,6 +2,7 @@
 % Lecture 3 - Anthony J. Richardson
 % Example 1: Discrete Time Geometric Growth Equation
 % Try playing with different values of R
+setenv ("GNUTERM","xlib")
 more off
 % Lecture 3: The Leslie Matrix in Discrete Time
 % M3.1

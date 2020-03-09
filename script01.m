@@ -2,6 +2,7 @@
 % Lecture 2 - Anthony J. Richardson
 % Example 1: Discrete Time Geometric Growth Equation
 % Try playing with different values of R
+setenv ("GNUTERM","xlib")
 more off
 % M2.1
 n0=1;% n0=1

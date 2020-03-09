@@ -1,5 +1,6 @@
 % LOGISTIC MODEL
 % Note that function logist_d is called
+setenv ("GNUTERM","xlib")
 more off
 % M4.1 Plotting the discrete Logistic Model as a Natural Production Function (delta N)
 figure(1)
